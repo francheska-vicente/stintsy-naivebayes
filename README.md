@@ -1,4 +1,4 @@
-# Title Here: A Comprehensive Guide to Naive Bayes
+# I am a strong, independent feature: A Comprehensive Guide to Naive Bayes
 
 ## How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/francheska-vicente/stintsy-naivebayes).
